@@ -1,16 +1,16 @@
 # Sample Laravel Project
 
 ### API Routes
-![api-routes](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/api.png)
+![api-routes](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/api.png?raw=true)
 
 ### Model
-![food-model](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/food.png)
+![food-model](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/food.png?raw=true)
 
 
 ### Controller
-![controller](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/controller_1.png)
+![controller](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/controller_1.png?raw=true)
 
-![controller](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/controller_2.png)
+![controller](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/controller_2.png?raw=true)
 
 ```php
 
@@ -124,10 +124,10 @@ class FoodController extends Controller
 
 ```
 
-### [Check out the `FoodController.php`](https://github.com/sizata-siege/sample-laravel/tree/main/app/Http/Controllers/FoodController.php)
+### [Check out the `FoodController.php`](https://github.com/sizata-siege/sample-laravel/blob/main/app/Http/Controllers/FoodController.php)
 
 
 ### Create & Update Requests & Validation
-![create-request](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/create.png)
+![create-request](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/create.png?raw=true)
 
-![update-request](https://github.com/sizata-siege/sample-laravel/tree/main/storage/docs/update.png)
+![update-request](https://github.com/sizata-siege/sample-laravel/blob/main/storage/docs/update.png?raw=true)
